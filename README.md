@@ -69,8 +69,6 @@ cl_sys=feedback(ol_sys,1)
 subplot(2,1,2)
 step(cl_sys)
 title('closed loop response')
-
-
 ## Output
 <img width="707" height="612" alt="Screenshot 2025-10-08 090050" src="https://github.com/user-attachments/assets/2d67a79b-14b2-4915-96d7-0d6a287fe2e6" />
 
